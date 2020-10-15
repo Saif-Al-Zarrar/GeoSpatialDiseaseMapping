@@ -1,0 +1,72 @@
+State,State/Area,"MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - Sample Female Population","MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - Sample Live Births","MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - Maternal Deaths","MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - MMR","MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - 95% Confidence Interval - Lower Limit","MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - 95% Confidence Interval - Upper Limit","MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - Maternal Mortality Rate","MORTALITY - Maternal Mortality Ratio(MMR), Maternal Mortality Rate and Life Time Risk - Life Time Risk"
+Assam,Assam,493751,111751,336 ,301 ,269 ,333 ,23 ,0.79%
+Assam,"HILLS AND BARAK VALLEY DIVISION(Karbi Anglong, North Cachar Hills, Cachar, Karimganj, Hailakandi)",77897 ,19574 ,55 ,281 ,207 ,355 ,24 ,0.82%
+Assam,"LOWER ASSAM DIVISION(Kokrajhar, Dhubri, Goalpara, Darrang, Bongaigaon, Barpeta, Kamrup, Nalbari)",137710 ,29963 ,76 ,254 ,197 ,311 ,18 ,0.64%
+Assam,"NORTH ASSAM DIVISION(Marigaon, Nagaon, Sonitpur, Lakhimpur, Dhemaji)",125703 ,30262 ,76 ,251 ,195 ,308 ,20 ,0.70%
+Assam,"UPPAR ASSAM DIVISION(Tinsukia, Dibrugarh, Sibsagar, Jorhat, Golaghat)",152441 ,31952 ,129 ,404 ,334 ,473 ,28 ,0.98%
+Bihar,BIHAR,758930,246456,675,274,253,295,30,1.03%
+Bihar,"TIRHUT (Pashchim Champaran, Purba Champaran, Sheohar, Sitamarhi, Muzaffarpur, Vaishali)",110215,38988,110,282,229,335,33,1.16%
+Bihar,"PURNIA(Araria, Kishanganj, Purnia, Katihar)",63581,23761,83,349,274,424,44,1.51%
+Bihar,"KOSI (Madhepura, Saharsa, Supaul)",60384,23185,59,254,190,319,33,1.13%
+Bihar,"DHARBHANGA (Madhubani, Darbhanga, Samastipur)",68145,22569,60,266,199,333,29,1.02%
+Bihar,"SARAN (Gopalganj, Siwan, Saran)",78824,23538,62,263,198,329,26,0.91%
+Bihar,"BHAGALPUR(Bhagalpur, Banka)",36252,11583,33,285,188,382,30,1.06%
+Bihar,"MUNGER(Begusarai, Khagaria, Munger, Lakhisarai, Sheikhpura, Jamui)",129728,42842,114,266,217,315,29,1.02%
+Bihar,"PATNA(Nalanda, Patna, Bhojpur, Buxar, Kaimur (Bhabua), Rohtas)",137680,38980,86,221,174,267,21,0.73%
+Bihar,"MAGADH (Jehanabad, Aurangabad, Gaya, Nawada)",74121,21010,68,324,247,400,31,1.06%
+Chhattisgarh,CHHATTISGARH,346285,83041,203,244,211,278,20,0.68%
+Chhattisgarh,"SURGUJA DIVISION(Koriya, Surguja, Jashpur)",47544,12156,33,271,179,364,23,0.81%
+Chhattisgarh,"BILASPUR DIVISION(Raigarh, Korba, Janjgir-Champa, Bilaspur)",108526,26047,68,261,199,323,21,0.73%
+Chhattisgarh,"RAIPUR DIVISION(Kawardha, Rajnandgaon, Durg, Raipur, Mahasamund, Dhamtari)",135830,32692,69,211,161,261,17,0.59%
+Chhattisgarh,"BASTAR DIVISION(Kanker, Bastar, Dantewada)",54385,12146,33,272,179,364,20,0.71%
+Jharkhand,Jharkhand,508851,136108,334,245,219,272,22,0.76%
+Jharkhand,"DAKSHINI CHOTA NAGPUR (Ranchi, Lohardaga, Gumla)",106386,30346,74,244,188,299,23,0.81%
+Jharkhand,"SANTHAL PARAGANA  (Deoghar, Godda, Sahibganj, Pakaur, Dumka)",114359,32893,96,292,234,350,28,0.97%
+Jharkhand,"KOLHAN (Pashchimi Singhbhum, Purbi Singhbhum)",74980,17839,45,252,179,326,20,0.70%
+Jharkhand,"UTTARI CHOTA NAGPUR (Dhanbad, Bokaro, Chatra, Hazaribagh, Kodarma, Giridih)",155526,39486,72,182,140,224,15,0.54%
+Jharkhand,"PALAMU (Garhwa, Palamu)",57600,15544,47,302,216,389,27,0.95%
+Madhya Pradesh,MADHYA PRADESH,625550,166658,378,227,204,250,20,0.70%
+Madhya Pradesh,"CHAMBAL DIVISION(Sheopur, Morena, Bhind)",50247,13483,29,215,137,293,19,0.67%
+Madhya Pradesh,"GWALIOR DIVISION(Gwalior, Datia, Shivpuri, Guna)",42678,11030,20,181,102,261,16,0.55%
+Madhya Pradesh,"SAGAR DIVISION(Tikamgarh, Chhatarpur, Panna, Sagar, Damoh)",51249,16766,54,322,236,408,35,1.22%
+Madhya Pradesh,"REWA DIVISION(Satna, Rewa, Sidhi)",33999,10457,28,268,169,367,27,0.96%
+Madhya Pradesh,"SHAHDOL DIVISION(Umaria, Shahdol, Dindori)",33866,9959,36,361,244,479,35,1.23%
+Madhya Pradesh,"UJJAIN DIVISION(Neemuch, Mandsaur, Ratlam, Ujjain, Shajapur, Dewas)",88048,21564,38,176,120,232,14,0.50%
+Madhya Pradesh,"INDORE DIVISION(Jhabua, Dhar, Indore, West Nimar, Barwani, East Nimar)",110865,29309,48,164,117,210,14,0.50%
+Madhya Pradesh,"BHOPAL DIVISION(Rajgarh, Vidisha, Bhopal, Sehore, Raisen)",54375,14151,31,219,142,296,19,0.66%
+Madhya Pradesh,"NARMADAPURAM DIVISION(Betul, Harda, Hoshangabad)",59565,14695,32,218,142,293,18,0.62%
+Madhya Pradesh,"JABALPUR DIVISION(Katni, Jabalpur, Narsimhapur, Mandla, Chhindwara, Seoni, Balaghat)",100658,25244,62,246,185,307,21,0.72%
+Odisha,Odisha,556678,111586,257, 230 , 202 , 258 , 15 ,0.54%
+Odisha,"NORTHERN DIVISION(Bargarh, Jharsuguda, Sambalpur, Debagarh, Sundargarh, Kendujhar, Dhenkanal, Anugul, Sonapur, Balangir)",203553,38434,90, 234 , 186 , 282 , 15 ,0.51%
+Odisha,"CENTRAL DIVISION(Mayurbhanj, Baleshwar, Bhadrak, Kendrapara, Jagatsinghapur, Cuttack, Jajapur, Nayagarh, Khordha, Puri)",239211,46254,101, 218 , 176 , 261 , 14 ,0.49%
+Odisha,"SOUTHERN DIVISION(Ganjam, Gajapati, Kandhamal, Baudh, Nuapada, Kalahandi, Rayagada, Nabarangapur, Koraput, Malkangiri)",113914,26898,66, 245 , 186 , 304 , 19 ,0.67%
+Rajasthan,Rajasthan,460737,129637,270,208,183,233,20,0.68%
+Rajasthan,"BIKANER (Ganganagar, Hanumangarh, Bikaner, Churu)",55860,14650,28,191,120,262,17,0.58%
+Rajasthan,"JAIPUR (Jhunjhunun, Alwar, Dausa, Jaipur, Sikar)",97974,24970,38,152,104,201,13,0.45%
+Rajasthan,"BHARATPUR(Bharatpur, Dhaulpur, Karauli, Sawai Madhopur)",44790,14288,27,189,118,260,20,0.70%
+Rajasthan,"AJMER(Nagaur, Ajmer, Tonk, Bhilwara)",58802,15671,35,223,149,297,20,0.69%
+Rajasthan,"JODHPUR (Jodhpur, Jaisalmer, Barmer, Jalor, Sirohi, Pali)",87487,26623,59,222,165,278,22,0.78%
+Rajasthan,"KOTA(Bundi, Kota, Baran, Jhalawar)",49596,13064,29,222,141,303,19,0.68%
+Rajasthan,"UDAIPUR(Rajsamand, Udaipur, Dungarpur, Banswara, Chittaurgarh)",66228,20371,54,265,194,336,27,0.95%
+Uttar Pradesh,UTTAR PRADESH,1178597,340325,878,258,241,275,25,0.87%
+Uttar Pradesh,"SAHARANPUR MANDAL (Saharanpur, Muzaffarnagar)",34292,9828,20, 204 ,114,293, 19 ,0.68%
+Uttar Pradesh,"Moradabad Mandal (Bijnor, Muradabad, Rampur, Jyotibha Phule Nagar)",56618,16205,36, 222 ,150,295, 21 ,0.74%
+Uttar Pradesh,"MEERUT MANDAL (Meerut, Baghpat, Ghaziabad, Gautam Budha Nagar, Bulandshahr)",110016,29156,44, 151 ,106,195, 13 ,0.47%
+Uttar Pradesh,"ALIGARH MANDAL (Aligarh, Hathras, Etah)",38413,12116,31, 256 ,166,346, 27 ,0.94%
+Uttar Pradesh,"AGRA MANDAL (Mathura, Agra, Firozabad, Mainpuri)",75912,21593,33, 153 ,101,205, 14 ,0.51%
+Uttar Pradesh,"BAREILLY MANDAL (Budaun, Bareilly, Pilibhit, Shahjahanpur)",54078,18329,36, 196 ,132,261, 22 ,0.77%
+Uttar Pradesh,"LUCKNOW MANDAL (Kheri, Sitapur, Hardoi, Unnao, Lucknow, Rae Bareli)",99210,27333,85, 311 ,245,377, 29 ,0.99%
+Uttar Pradesh,"KANPUR MANDAL (Farrukhabad, Kannauj, Etawah, Auraiya, Kanpur Dehat, Kanpur Nagar)",147450,37946,91, 240 ,191,289, 21 ,0.72%
+Uttar Pradesh,"JHANSI MANDAL (Jalaun, Jhansi, Lalitpur)",41543,10708,25, 233 ,142,325, 20 ,0.70%
+Uttar Pradesh,"CHITRAKOOT DHAM MANDAL (Hamirpur, Mahoba, Banda, Chitrakoot)",63548,20129,57, 283 ,210,357, 30 ,1.04%
+Uttar Pradesh,"ALLAHABAD MANDAL (Fatehpur Pratapgarh, Kaushambi, Allahbad)",69367,19780,56, 283 ,209,357, 27 ,0.94%
+Uttar Pradesh,"FAIZABAD MANDAL (Barabanki, Faizabad, Ambedkar Nagar, Sultanpur)",57307,15664,57, 364 ,270,458, 33 ,1.15%
+Uttar Pradesh,"DEVI PATAN MANDAL (Bahraich, Shrawasti, Balrampur, Gonda)",61712,25376,93, 366 ,292,441, 50 ,1.74%
+Uttar Pradesh,"BASTI MANDAL (Siddharthnagar, Basti, Sant Kabir Nagar)",36188,12811,39, 304 ,209,400, 36 ,1.25%
+Uttar Pradesh,"GORAKHPUR MANDAL (Maharajganj, Gorakhpur, Kushinagar, Deoria)",69405,19865,60, 302 ,226,378, 29 ,1.00%
+Uttar Pradesh,"AZAMGARH MANDAL (Azamgarh, Mau, Ballia)",63470,16644,45, 270 ,191,349, 24 ,0.82%
+Uttar Pradesh,"VARANSI MANDAL (Jaunpur, Ghazipur, Chandauli, Varanasi)",70182,18140,51, 281 ,204,358, 24 ,0.84%
+Uttar Pradesh,"MIRZAPUR MANDAL (Sant Ravidas Nagar (Bhadohi), Mirzapur, Sonbhadra)",29886,8702,19, 218 ,120,316, 21 ,0.74%
+ Uttarakhand , UTTARAKHAND ,"464,551 ","87,260 ",144 ,165 ,138 ,192 ,10 ,0.36%
+ Uttarakhand ," GARHWAL HQ (Uttarkashi, Chamoli, Rudraprayag, Tehri Garhwal, Dehradun, Pauri Garhwal, Haridwar) ","313,337 ","60,846 ",96 ,158 ,126 ,189 ,10 ,0.36%
+ Uttarakhand ," KUMAON HQ (Pithoragarh, Bageshwar, Almora, Champawat, Nanital, Udham Singh Nagar) ","151,214 ","26,414 ",48 ,182 ,130 ,233 ,11 ,0.37%
